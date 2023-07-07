@@ -3,7 +3,7 @@ This repository contains the tasks that I completed while working as an intern f
 - Internship Category - Data Science and Business Analytics
 - Internship Duration - 1 Month ( April-2022 )
 - Internship Type - Work from Home
-In this internship, we were provided a total of 4 Tasks and I was able to successfully complete all the 6 tasks within the given time-frame.
+In this internship, we were provided a total of 4 Tasks and I was able to successfully complete all the 4 tasks within the given time-frame.
 
 # Task-1 : Prediction using Supervised ML (Level - Beginner)
 - Predict the percentage of marks of an student based on the number of study hours.
